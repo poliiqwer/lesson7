@@ -19,7 +19,7 @@ namespace lesson7
         public double division(double num1, double num2)
         {
             double result = (num1 / num2);
-            return result;
+            return result;//ghfnjgfnjghfnjghmhnjyju
         }
         public double multiplication(double num1, double num2)
         {
